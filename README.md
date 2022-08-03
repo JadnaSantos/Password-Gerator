@@ -2,11 +2,7 @@
 
 <h1 align="center">Password Gerator</h1>
 
-<p align="center">In this project you can gerate your password</p>
-
-<h1 align="center">
-    <a href="https://www.javascript.com/">🔗 JavaScript</a>
-</h1>
+<p>In this project you can gerate your password</p>
 
 
 ### Features
